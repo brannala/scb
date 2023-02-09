@@ -1,4 +1,4 @@
-# 17 Data Encryption. Part 1
+# 18 Data Encryption. Part 1
 ## Asymmetrical Encryption ##
 A matched pair of keys exist A and B. Either key can be use to encrypt or decrypt a message. However, if a message is encrypted with A it can only be decrypted with B and vice versa. Now suppose A is a public key that you share with others and B is your personal private key. This allows two possibilities:
 

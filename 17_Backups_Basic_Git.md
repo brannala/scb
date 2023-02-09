@@ -1,4 +1,4 @@
-# 18 Backups: Basic git
+# 17 Backups: Basic git
 ## Using Git to Maintain Your Files
 The git program allows you to retain copies of all previous and current versions of your files without any clutter in your project directory. You can easily go back to earlier versions of your project if you accidentally deleted a file that you now need, or if you just want to check an earlier version of a file. Git allows you to keep a minimalist folder containing only the current files, but also have the security of knowing that all previous versions are still available should you need them. Git does this in an efficient way -- only recording a record of the differences from the previous versions at each commit (much like having a linked list of output from the UNIX ```diff``` command). It is also possible to maintain a copy of your repository on a remote machine for backup purposes.
 
